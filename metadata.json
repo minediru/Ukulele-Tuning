@@ -1,0 +1,6 @@
+{
+  "name": "ウクレレチューナー | Ukulele Tuner",
+  "description": "スマホのマイクで簡単に正確に調弦できるウクレレ専用チューナーアプリ。自動弦認識、音名表示、基準音再生機能付き。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
